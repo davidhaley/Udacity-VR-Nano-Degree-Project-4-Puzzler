@@ -3,7 +3,7 @@ Puzzler is a mobile VR game targeted at new VR users, that challenges a player b
 
 #### Interested to see how this project was made?
 
-Visit my website: www.davidhaley.io
+Check it out here: www.davidhaley.io/portfolio/vr/puzzler
 
 # Puzzler VR
 
