@@ -1,8 +1,6 @@
 # Udacity-VR-Nano-Degree-Project-4-Puzzler
 Puzzler is a mobile VR game targeted at new VR users, that challenges a player by testing their memory with "Simon-Says" style puzzles. This application deploys to an Android device.
 
-### [See how I created this project](http://www.davidhaley.io/portfolio/vr/puzzler).
-
 # Puzzler VR
 
 ### Screenshots
